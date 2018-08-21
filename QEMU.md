@@ -30,3 +30,7 @@ http://k-ishik.seesaa.net/article/76968986.html
 # scpコマンドでコピー
 
 https://qiita.com/ritukiii/items/c724f09fe66fedf2618b
+
+# winsock
+
+http://www.geekpage.jp/programming/winsock/
