@@ -34,3 +34,12 @@ https://qiita.com/ritukiii/items/c724f09fe66fedf2618b
 # winsock
 
 http://www.geekpage.jp/programming/winsock/
+
+# mmap
+
+http://se.hatenablog.jp/entry/2014/11/12/100246
+
+# 画像表示
+
+gpicviewで表示
+画像フォーマットはPGM(P5)
